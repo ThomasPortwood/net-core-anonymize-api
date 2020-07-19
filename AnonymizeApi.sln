@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymizeApi", "AnonymizeApi\AnonymizeApi.csproj", "{801DA112-70A2-432D-86FC-F8A13CD04F8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymizeApiUnitTests2", "AnonymizeApiUnitTests2\AnonymizeApiUnitTests2.csproj", "{CCF8F9E8-6AB8-4F9B-929B-B78FABCF6891}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymizeApiFunctionalTests", "AnonymizeApiFunctionalTests\AnonymizeApiFunctionalTests.csproj", "{95FACD73-59A5-4F31-9DD3-13CEB7C434A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{801DA112-70A2-432D-86FC-F8A13CD04F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{801DA112-70A2-432D-86FC-F8A13CD04F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{801DA112-70A2-432D-86FC-F8A13CD04F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{801DA112-70A2-432D-86FC-F8A13CD04F8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF8F9E8-6AB8-4F9B-929B-B78FABCF6891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF8F9E8-6AB8-4F9B-929B-B78FABCF6891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF8F9E8-6AB8-4F9B-929B-B78FABCF6891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF8F9E8-6AB8-4F9B-929B-B78FABCF6891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95FACD73-59A5-4F31-9DD3-13CEB7C434A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95FACD73-59A5-4F31-9DD3-13CEB7C434A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95FACD73-59A5-4F31-9DD3-13CEB7C434A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95FACD73-59A5-4F31-9DD3-13CEB7C434A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
